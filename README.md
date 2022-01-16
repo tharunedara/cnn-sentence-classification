@@ -55,8 +55,8 @@ Train:
 
 ## Dataset
 
-data/cr.* - Customer Review Dataset (Hu and Liu, 2004)
-data/mr.* - Movie Review Dataset (Pang and Lee, 2008)
+data/cr.* - Customer Review Dataset (Hu and Liu, 2004)\
+data/mr.* - Movie Review Dataset (Pang and Lee, 2008)\
 data/subj.* - Subjectivity Dataset (Pang and Lee, 2005)
 
 ## References
