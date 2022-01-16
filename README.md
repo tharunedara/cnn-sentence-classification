@@ -53,14 +53,11 @@ Train:
 ./train.py
 ```
 
-## Evaluating
+## Dataset
 
-```bash
-./eval.py --eval_train --checkpoint_dir="./runs/1459637919/checkpoints/"
-```
-
-Replace the checkpoint dir with the output from the training. To use your own data, change the `eval.py` script to load your data.
-
+data/cr.* - Customer Review Dataset (Hu and Liu, 2004)
+data/mr.* - Movie Review Dataset (Pang and Lee, 2008)
+data/subj.* - Subjectivity Dataset (Pang and Lee, 2005)
 
 ## References
 
